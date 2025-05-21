@@ -55,4 +55,9 @@ return ans;
 function hello()
 console.log("Hello Kiambu")
 
+fuhction juice = (oranges+bananas)
+//console.log(juice)
+
+
+
 
